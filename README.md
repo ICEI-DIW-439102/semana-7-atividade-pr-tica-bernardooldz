@@ -5,13 +5,8 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Bernardo Lopes Diniz
+- Matricula: 908681
 
 ## Print do console do navegador
-
-<<  COLOQUE A IMAGEM AQUI >>
-
-
-
-(*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
+![Print do resultado no navegador](print_resultado_navegador.png)
